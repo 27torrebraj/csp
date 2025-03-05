@@ -1,0 +1,2 @@
+//yomamagotpajamasonallama
+console.log("first")
