@@ -1,2 +1,2 @@
-//yomamagotpajamasonallama
-console.log("first")
+//yurrrrrr
+console.log("Black Ops 2")
